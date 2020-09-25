@@ -4,9 +4,6 @@ import Head from 'next/head'
 import Layout from '../components/Layout'
 import Banner from '../components/Banner'
 
-export const getServerSideProps = async(ctx) => {
-    //
-}
 
 class Home extends React.Component {
 
